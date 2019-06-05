@@ -91,5 +91,6 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.16.18" level="project" />
     <orderEntry type="library" name="Maven: javax.el:javax.el-api:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.glassfish.web:javax.el:2.2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.modelmapper:modelmapper:2.3.4" level="project" />
   </component>
 </module>

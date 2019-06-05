@@ -26,7 +26,7 @@ public class Player {
     private String playersSurname;
 
     @ManyToOne(fetch = FetchType.LAZY,cascade = CascadeType.ALL)
-    @JoinColumn(name="idEquipo",referencedColumnName = "idEquipo")
+    @JoinColumn(name="idTeam",referencedColumnName = "idTeam")
     @OnDelete(action = OnDeleteAction.CASCADE)
     //@JsonIgnore
     @JsonBackReference
